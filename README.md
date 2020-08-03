@@ -2,7 +2,7 @@
 
 ### Ссылка на тестовую страницу
 
-[Пример](https://yavorskiydima.github.io/test-cbrf)
+[Пример](https://yavorskiydima.github.io/test-cbrf/)
 
 ### Для старта проекта:
 `npm install`
